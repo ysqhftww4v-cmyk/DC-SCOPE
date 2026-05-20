@@ -2,4 +2,4 @@
 
 ## 다운로드
 
-  • [개인용 디시 스코프 v1.0]([https://github.com/사용자명/저장소명/releases/download/v1.0/개인용%20디시%20스코프%20v1.0.exe](https://github.com/ysqhftww4v-cmyk/DC-SCOPE/raw/main/개인용%20디시%20스코프%20v1.0.exe)
+   • [개인용 디시 스코프 v1.0 다운로드](https://github.com/ysqhftww4v-cmyk/DC-SCOPE/raw/main/%EA%B0%9C%EC%9D%B8%EC%9A%A9%20%EB%94%94%EC%8B%9C%20%EC%8A%A4%EC%BD%94%ED%94%84%20v1.0.exe)
